@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678842161 source:/home/user/OS_Labs/lab2/main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
